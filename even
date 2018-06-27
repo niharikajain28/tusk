@@ -2,3 +2,6 @@ if(n%2==0)
 printf("even no");
 else
 odd
+
+
+pallindrome
